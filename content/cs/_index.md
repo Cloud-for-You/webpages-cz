@@ -33,8 +33,59 @@ testimonials:
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
     gradient-angle="180"
-    extra_content_b64="PGRpdiBjbGFzcz0iY29udGFpbmVyIHB0LTE2IHBiLTIwIG1kOnB0LTI0IG1kOnBiLTI4Ij4KICA8aDMgY2xhc3M9InRleHQtM3hsIGZvbnQtc2VtaWJvbGQgbWItNCIgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlciI+CiAgICBQcm92b3p1anRlIGVmZWt0aXZuaSwgdWRyxb5pdGVsbm91IGEgYmV6cGXEjW5vdSBJVCBpbmZyYXN0cnVrdHVydQogIDwvaDE+CiAgPHAgY2xhc3M9InRleHQtbWwgdGV4dC1ncmF5LTYwMCIgc3R5bGU9Im1hcmdpbi10b3A6IDE1cHg7Ij4KICAgIFYgZHluYW1pY2vDqW0gc3bEm3TEmyBkaWdpdMOhbG7DrSB0cmFuc2Zvcm1hY2UgamnFviBuZXN0YcSNw60gamVuIHJ5Y2hsZSB2eXbDrWpldCBhIG5hc2F6b3ZhdCBzb2Z0d2FyZS4gU3Rlam7EmyBkxa9sZcW+aXTDqSBqZSB1ZHLFvmV0IGNlbMO9IHByb2NlcyBiZXpwZcSNbsO9LCBlZmVrdGl2bsOtIGEgbsOha2xhZG92xJsgdHJhbnNwYXJlbnRuw60uIFByw6F2xJsgbmEgdG9tdG8gcHJvcG9qZW7DrSBzdGF2w61tZSBuYcWhaSBtaXNpLgogICAgUG9tw6Fow6FtZSBvcmdhbml6YWPDrW0gcyBuw6F2cmhlbSBhIGltcGxlbWVudGFjw60gbW9kZXJuw61jaCBEZXZTZWNPcHMgcMWZw61zdHVwxa8sIGEgesOhcm92ZcWIIHphdsOhZMOtbWUgbcSbxZllbsOtIGEgxZnDrXplbsOtIG7DoWtsYWTFryBuYSBpbmZyYXN0cnVrdHVydSBwb21vY8OtIHByaW5jaXDFryBGaW5PcHMuCiAgPC9wPgogIDxoNSBjbGFzcz0idGV4dC0yeGwgZm9udC1zZW1pYm9sZCBtdC04Ij4KICAgIERldlNlY09wczogQmV6cGXEjW5vc3QgYSBhdXRvbWF0aXphY2UgamFrbyB6w6FrbGFkIHLFr3N0dQogIDwvaDU+CiAgPHAgY2xhc3M9InRleHQtbWwgdGV4dC1ncmF5LTYwMCIgc3R5bGU9Im1hcmdpbi10b3A6IDE1cHg7Ij4KICAgIFphdsOhZMSbbsOtIERldk9wcyBwxZlpbmVzbG8gcmV2b2x1Y2kgdiByeWNobG9zdGkgdsO9dm9qZSBhIG5hc2F6ZW7DrSBhcGxpa2Fjw60uIERuZXMgdsWhYWsgbXVzw60gYsO9dCBzb3XEjcOhc3TDrSBrYcW+ZMOpaG8gbsOhdnJodSBpIGJlenBlxI1ub3N0IChvZCBwcnZuw61obyDFmcOhZGt1IGvDs2R1IGHFviBwbyBwcm92b3puw60gbW9uaXRvcmluZykuCiAgICBEZXZTZWNPcHMgaW50ZWdydWplIGJlenBlxI1ub3N0bsOtIHByaW5jaXB5IHDFmcOtbW8gZG8gdsO9dm9qb3bDqWhvIGEgcHJvdm96bsOtaG8gY3lrbHUuCiAgICBQb23DoWjDoW1lIG5hxaFpbSBrbGllbnTFr20gbmF2cmhub3V0IGFyY2hpdGVrdHVydSBpIHByb2Nlc3kgdGFrLCBhYnkgYmV6cGXEjW5vc3QgbmVieWxhIGJyemRvdSBpbm92YWNlLCBhbGUgamVqw60gcMWZaXJvemVub3Ugc291xI3DoXN0w60uCiAgPC9wPgogIDxoNSBjbGFzcz0idGV4dC0yeGwgZm9udC1zZW1pYm9sZCBtdC04Ij4KICAgIEZpbk9wczogVHJhbnNwYXJlbnRub3N0IGEgc3ByYXZlZGxpdsOpIHJvesO6xI10b3bDoW7DrSBJVCBuw6FrbGFkxa8KICA8L2g1PgogIDxwIGNsYXNzPSJ0ZXh0LW1sIHRleHQtZ3JheS02MDAiIHN0eWxlPSJtYXJnaW4tdG9wOiAxNXB4OyI+CiAgICBDbG91ZG92w6EgYSBrb250ZWpuZXJvdsOhIGluZnJhc3RydWt0dXJhIHDFmWluw6HFocOtIGZsZXhpYmlsaXR1LCBhbGUgdGFrw6kgdsO9cmF6bsSbIHp2ecWhdWplIG7DoXJva3kgbmEgc3Byw6F2dSBuw6FrbGFkxa8uIFMgcMWZZWNob2RlbSBuYSBtb2RlbCDigJxwYXktYXMteW91LWdv4oCdIHZ6bmlrw6EgcG90xZllYmEgc2xlZG92YXQgYSDFmcOtZGl0IHNwb3TFmWVidSB2w71wb8SNZXRuw61jaCB6ZHJvasWvIHYgcmXDoWxuw6ltIMSNYXNlLgogICAgRmluT3BzIHVtb8W+xYh1amUgdMO9bcWvbSDigJMgdGVjaG5pY2vDvW0gaSBuZXRlY2huaWNrw71tIOKAkyBwb3JvenVtxJt0LCBvcHRpbWFsaXpvdmF0IGEgc2TDrWxldCBvZHBvdsSbZG5vc3QgemEgbsOha2xhZHkuCiAgICBaYXbDoWTDrW1lIG7DoXN0cm9qZSBhIG1ldHJpa3ksIGt0ZXLDqSB1bW/FvsWIdWrDrToKICA8L3A+CiAgPHVsIGNsYXNzPSJsaXN0LWRpc2MgbGlzdC1pbnNpZGUgdGV4dC1tbCB0ZXh0LWdyYXktNjAwIiBzdHlsZT0ibWFyZ2luLXRvcDogMTVweDsiPgogICAgPGxpPlRyYW5zcGFyZW50bsOtIHNsZWRvdsOhbsOtIG7DoWtsYWTFryBuYSDDunJvdm5pIGplZG5vdGxpdsO9Y2ggc2x1xb5lYiBhIHTDvW3FrzwvbGk+CiAgICA8bGk+QXV0b21hdGl6b3ZhbsOpIHJlcG9ydHkgYSB1cG96b3JuxJtuw60gbmEgbmVlZmVrdGl2bsOtIHZ5dcW+aXTDrSB6ZHJvasWvPC9saT4KICAgIDxsaT5PcHRpbWFsaXphY2kgbsOha2xhZMWvIHBvbW9jw60gcHJlZGlrdGl2bsOtIGFuYWzDvXp5IGEgZG9wb3J1xI1lbsOtPC9saT4KICAgIDxsaT5TcHJhdmVkbGl2w6kgcm96w7rEjXRvdsOhbsOtIG7DoWtsYWTFryBtZXppIHTDvW15IGEgcHJvamVrdHk8L2xpPgogIDwvdWw+CiAgPGg1IGNsYXNzPSJ0ZXh0LTJ4bCBmb250LXNlbWlib2xkIG10LTgiPgogICAgQ28gcMWZaW7DocWhw61tZSBuYcWhaW0gesOha2F6bsOta8WvbQogIDwvaDU+CiAgPHAgY2xhc3M9InRleHQtbWwgdGV4dC1ncmF5LTYwMCIgc3R5bGU9Im1hcmdpbi10b3A6IDE1cHg7Ij4KICA8dWw+CiAgICA8bGk+S29tcGxleG7DrSBuw6F2cmggYmV6cGXEjW7DqWhvIENJL0NEIHByb3N0xZllZMOtLCB2xI1ldG7EmyBpbnRlZ3JhY2UgU0FTVC9EQVNUIG7DoXN0cm9qxa8sIHRham7DvWNoIGtsw63EjcWvIGEgcMWZw61zdHVwb3bDvWNoIHBvbGl0aWsuPC9saT4KCSAgPGxpPkF1dG9tYXRpem92YW7DqSBuYXNhemVuw60gaW5mcmFzdHJ1a3R1cnkgZm9ybW91IEluZnJhc3RydWN0dXJlLWFzLUNvZGUsIMWZw616ZW7DqSBHaXRPcHMgcMWZw61zdHVwZW0uPC9saT4KCSAgPGxpPlphdmVkZW7DrSBtZXRyaWsgYSBkYXNoYm9hcmTFrywga3RlcsOpIHVtb8W+bsOtIHNsZWRvdmF0IHJlw6Fsbm91IHNwb3TFmWVidSB2w71wb8SNZXRuw61jaCB6ZHJvasWvLjwvbGk+CgkgIDxsaT5LYWxrdWxhxI1uw60gbW9kZWx5IHBybyBzcHJhdmVkbGl2w6kgRmluT3BzIMO6xI10b3bDoW7DrSwgcMWZaXpwxa9zb2JlbsOpIG9yZ2FuaXphxI1uw60gc3RydWt0dcWZZSBhIHBvdMWZZWLDoW0gesOha2F6bsOta2EuPC9saT4KICA8L3VsPgogIDwvcD4KICA8aDUgY2xhc3M9InRleHQtMnhsIGZvbnQtc2VtaWJvbGQgbXQtOCI+CiAgICBQcm/EjSBzaSB2eWJyYXQgbsOhcz8KICA8L2g1PgogIDxwIGNsYXNzPSJ0ZXh0LW1sIHRleHQtZ3JheS02MDAiIHN0eWxlPSJtYXJnaW4tdG9wOiAxNXB4OyI+ICAgIAogICAgTmHFoWUgemt1xaFlbm9zdGkgcyBuw6F2cmhlbSBhIGltcGxlbWVudGFjw60gRGV2U2VjT3BzIGEgRmluT3BzIHDFmcOtc3R1cMWvIG7DoW0gdW1vxb7FiHVqw60gcG9za3l0b3ZhdCBrb21wbGV4bsOtIHNsdcW+YnksIGt0ZXLDqSBwb2tyw712YWrDrSBjZWzDvSDFvml2b3Ruw60gY3lrbHVzIElUIGluZnJhc3RydWt0dXJ5LgogICAgT2QgbsOhdnJodSBhcmNoaXRla3R1cnkgcMWZZXMgYXV0b21hdGl6YWNpIGHFviBwbyBtb25pdG9yaW5nIGEgb3B0aW1hbGl6YWNpIG7DoWtsYWTFry4KICAgIDxiPk5lcHJvZMOhdsOhbWUgbsOhc3Ryb2plLCBhbGUgdsO9c2xlZGt5LjwvYj4gTmHFocOtIHByaW9yaXRvdSBqZSBwb21vY2kgdsOhbSB2eXR2b8WZaXQgcHJvc3TFmWVkw60sIGtkZSB2w712b2rDocWZaSBtb2hvdSBpbm92b3ZhdCBiZXpwZcSNbsSbLAogICAgaW5mcmFzdHJ1a3R1cmEgamUgZWZla3Rpdm7EmyDFmcOtemVuw6EgYSBrYcW+ZMO9IG7DoWtsYWQgbcOhIHN2w6kgb3BvZHN0YXRuxJtuw60uCiAgPC9wPgo8L2Rpdj4K"
 >}}
+<div class="container pt-16 pb-20 md:pt-24 md:pb-28">
+  <h3 class="text-3xl font-semibold mb-4" style="text-align: center">
+    Provozujte efektivni, udržitelnou a bezpečnou IT infrastrukturu
+  </h3>
+  <p class="text-ml text-gray-600" style="margin-top: 15px;">
+    V dynamickém světě digitální transformace již nestačí jen rychle vyvíjet a nasazovat software. Stejně důležité je udržet celý proces bezpečný, efektivní a nákladově transparentní. Právě na tomto propojení stavíme naši misi.
+    Pomáháme organizacím s návrhem a implementací moderních DevSecOps přístupů, a zároveň zavádíme měření a řízení nákladů na infrastrukturu pomocí principů FinOps.
+  </p>
+  <h5 class="text-2xl font-semibold mt-8">
+    DevSecOps: Bezpečnost a automatizace jako základ růstu
+  </h5>
+  <p class="text-ml text-gray-600" style="margin-top: 15px;">
+    Zavádění DevOps přineslo revoluci v rychlosti vývoje a nasazení aplikací. Dnes však musí být součástí každého návrhu i bezpečnost (od prvního řádku kódu až po provozní monitoring).
+    DevSecOps integruje bezpečnostní principy přímo do vývojového a provozního cyklu.
+    Pomáháme našim klientům navrhnout architekturu i procesy tak, aby bezpečnost nebyla brzdou inovace, ale její přirozenou součástí.
+  </p>
+  <h5 class="text-2xl font-semibold mt-8">
+    FinOps: Transparentnost a spravedlivé rozúčtování IT nákladů
+  </h5>
+  <p class="text-ml text-gray-600" style="margin-top: 15px;">
+    Cloudová a kontejnerová infrastruktura přináší flexibilitu, ale také výrazně zvyšuje nároky na správu nákladů. S přechodem na model "pay-as-you-go" vzniká potřeba sledovat a řídit spotřebu výpočetních zdrojů v reálném čase.
+    FinOps umožňuje týmům – technickým i netechnickým – porozumět, optimalizovat a sdílet odpovědnost za náklady.
+    Zavádíme nástroje a metriky, které umožňují:
+  </p>
+  <ul class="list-disc list-inside text-ml text-gray-600" style="margin-top: 15px;">
+    <li>Transparentní sledování nákladů na úrovni jednotlivých služeb a týmů</li>
+    <li>Automatizované reporty a upozornění na neefektivní využití zdrojů</li>
+    <li>Optimalizaci nákladů pomocí prediktivní analýzy a doporučení</li>
+    <li>Spravedlivé rozúčtování nákladů mezi týmy a projekty</li>
+  </ul>
+  <h5 class="text-2xl font-semibold mt-8">
+    Co přinášíme našim zákazníkům
+  </h5>
+  <p class="text-ml text-gray-600" style="margin-top: 15px;">
+  <ul>
+    <li>Komplexní návrh bezpečného CI/CD prostředí, včetně integrace SAST/DAST nástrojů, tajných klíčů a přístupových politik.</li>
+    <li>Automatizované nasazení infrastruktury formou Infrastructure-as-Code, řízené GitOps přístupem.</li>
+    <li>Zavedení metrik a dashboardů, které umožní sledovat reálnou spotřebu výpočetních zdrojů.</li>
+    <li>Kalkulační modely pro spravedlivé FinOps účtování, přizpůsobené organizační struktuře a potřebám zákazníka.</li>
+  </ul>
+  </p>
+  <h5 class="text-2xl font-semibold mt-8">
+    Proč si vybrat nás?
+  </h5>
+  <p class="text-ml text-gray-600" style="margin-top: 15px;">    
+    Naše zkušenosti s návrhem a implementací DevSecOps a FinOps přístupů nám umožňují poskytovat komplexní služby, které pokrívají celý životní cyklus IT infrastruktury.
+    Od návrhu architektury přes automatizaci až po monitoring a optimalizaci nákladů.
+    <b>Neprodáváme nástroje, ale výsledky.</b> Naší prioritou je pomoci vám vytvořit prostředí, kde vývojáři mohou inovovat bezpečně,
+    infrastruktura je efektivně řízená a každý náklad má své opodstatnění.
+  </p>
+</div>
+{{< /hero >}}
 
 
 <!--{{< client-logos animate="true" >}}-->
