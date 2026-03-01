@@ -1,66 +1,20 @@
 ---
-title: "Design IT Infrastructure"
-description: "We will design IT infrastructure tailored to your needs and requirements. We ensure it is reliable, secure, and scalable. We provide the right combination of technologies, whether it’s servers, cloud solutions, or network architecture, and set everything up to work efficiently and without unnecessary complexity. You can focus on your business while we take care of its technological foundation."
-layout: "feature"
+title: "IT Infrastructure Design"
+description: "We will design IT infrastructure tailored to your needs and requirements. We ensure it is reliable, secure, and scalable. We provide the right combination of technologies, whether it's servers, cloud solutions, or network architecture, and set everything up to work efficiently and without unnecessary complexity. You can focus on your business while we take care of its technological foundation."
+layout: "solution"
 badge: "Design"
 badgeColor: "#7c3aed"
+badgeImage: "/images/infrastructure-design.png"
 features:
-  - title: "Modern UI Components"
-    description: "A complete set of pre-built components designed for SaaS websites. From navigation bars to pricing tables, everything you need is included."
-  - title: "Responsive Design"
-    description: "Every component is fully responsive and tested across all device sizes. Your website will look great on everything from phones to large displays."
-  - title: "Custom Typography"
-    description: "Carefully crafted typography system with perfect vertical rhythm. Easily customize fonts and sizes to match your brand guidelines."
-  - title: "Flexible Layouts"
-    description: "Modular layout system that adapts to your content. Create unique page layouts while maintaining consistent spacing and alignment."
-demo:
-  description: "Explore our comprehensive design system built with TailwindCSS."
-  image: "/images/feature-2.svg"
+  - title: "Automation and Orchestration with IaC"
+    description: "We create and manage IT infrastructure through code (Infrastructure as Code, IaC), which enables a fully automated approach to deployment and management of servers, network infrastructure, and other components. With IaC, infrastructure can be easily managed and versioned, minimizing the risk of human errors. We will select technologies like Terraform, Ansible, or Pulumi for seamless management and provisioning."
+  - title: "GitOps Implementation for Management and Deployment"
+    description: "We use GitOps principles for efficient deployment and management of infrastructure directly from Git repositories. All infrastructure changes are versioned and managed through Git repositories, bringing greater transparency and control over changes. We implement tools like ArgoCD or Flux for automatic deployment and management of applications and infrastructure in Kubernetes clusters."
+  - title: "Security and Monitoring"
+    description: "We focus on ensuring IT infrastructure security from the very beginning using the DevSecOps approach. We integrate security tools into CI/CD pipelines and implement monitoring that allows us to detect potential threats early. We use technologies for sensitive data management (HashiCorp Vault), monitoring (Prometheus, Grafana), and audits, which guarantees a high level of protection."
+  - title: "Scalability and Reliability of Cloud and On-Premise Solutions"
+    description: "We design and implement flexible and scalable infrastructures that can be operated both in the cloud and on-premise servers. We balance costs and performance so that infrastructure can grow with your needs. We use Kubernetes for container orchestration, which ensures flexibility and automated scaling, while also ensuring a secure and highly available architecture."
+#demo:
+#  description: "Explore our comprehensive design system built with TailwindCSS."
+#  image: "/images/feature-2.svg"
 ---
-
-## Comprehensive Design System
-
-Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.
-
-### Design Components
-
-#### Core Elements
-- Typography system with perfect vertical rhythm
-- Color palette with semantic variables
-- Spacing and sizing scales
-- Grid and layout systems
-
-#### UI Components
-- Navigation components (headers, footers, menus)
-- Hero sections and feature displays
-- Cards and content containers
-- Forms and input elements
-- Buttons and CTAs
-- Pricing tables
-- Testimonial displays
-- Team member profiles
-
-#### Design Features
-
-##### Customization
-- Easy theme customization through TailwindCSS
-- Brand color management
-- Typography customization
-- Spacing system adjustment
-- Component variants
-
-##### Accessibility
-- WCAG 2.1 compliant components
-- Proper ARIA attributes
-- Keyboard navigation support
-- High contrast mode support
-- Screen reader optimized
-
-##### Responsive Design
-- Mobile-first approach
-- Breakpoint system
-- Fluid typography
-- Adaptive layouts
-- Touch-friendly interactions
-
-Our design system provides the perfect foundation for creating beautiful, accessible, and responsive websites that stand out from the crowd.
