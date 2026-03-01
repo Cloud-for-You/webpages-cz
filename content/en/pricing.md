@@ -4,57 +4,85 @@ description: "Choose the perfect plan for your needs"
 layout: "pricing"
 ---
 
-{{< pricing-table-1 >}}
+{{< pricing-table-2 >}}
 {
-    "title": "Designed for business teams like yours",
-    "description": "Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.",
+    "title": "IT Infrastructure",
+    "description": "",
     "plans": [
         {
-            "name": "Starter",
-            "price": "29",
-            "description": "Best option for personal use & for your next project.",
+            "name": "Analysis",
+            "price": "from 30.000,-",
+            "billing_cycle": "",
+            "description": "Detailed assessment and solution proposal tailored to your specific requirements. Ideal for customers who need expert insight and clear recommendations.",
             "features": [
-                "Individual configuration",
-                "No setup, or hidden fees",
-                "Team size: 1 developer",
-                "Premium support: 6 months",
-                "Free updates: 6 months"
+                "Requirements gathering and evaluation",
+                "Detailed technical analysis of current state",
+                "Optimal solution and architecture proposal",
+                "Identification of potential risks and limitations",
+                "Documentation with recommendations"
             ],
             "button": {
-                "text": "Get started",
+                "text": "Contact us",
                 "url": "#"
             }
         },
         {
-            "name": "Company",
-            "price": "99",
-            "description": "Relevant for multiple users, extended & premium support.",
+            "name": "Implementation",
+            "price": "from 50.000,-",
+            "billing_cycle": "",
+            "description": "Comprehensive solution deployment. Suitable for customers who want to effectively implement a project using expert knowledge and the latest technological procedures.",
             "featured": true,
             "features": [
-                "Individual configuration",
-                "No setup, or hidden fees",
-                "Team size: 10 developers",
-                "Premium support: 24 months",
-                "Free updates: 24 months"
+                "Implementation of the required solution",
+                "Documentation",
+                "Technical support"
             ],
             "button": {
-                "text": "Get started",
+                "text": "Contact us",
                 "url": "#"
             }
         },
         {
-            "name": "Enterprise",
-            "price": "499",
-            "description": "Best for large scale uses and extended redistribution rights.",
+            "name": "Technical Consultations",
+            "price": "from 3.500,-",
+            "billing_cycle": "hour",
+            "description": "Highly specialized consulting services. Expert support for extensive projects and demanding technical challenges. Intended for customers who need specialized advice and assistance with infrastructure optimization or development.",
             "features": [
-                "Individual configuration",
-                "No setup, or hidden fees",
-                "Team size: 100+ developers",
-                "Premium support: 36 months",
-                "Free updates: 36 months"
+                "Expert technical support",
+                "Professional assistance with requirements resolution",
+                "Help with navigating technical options"
             ],
             "button": {
-                "text": "Get started",
+                "text": "Contact us",
+                "url": "#"
+            }
+        }
+    ]
+}
+{{< /pricing-table-2 >}}
+
+{{< pricing-table-1 >}}
+{
+    "title": "Security",
+    "description": "",
+    "plans": [
+        {
+            "name": "Infrastructure",
+            "price": "from 30.000,-",
+            "billing_cycle": "",
+            "description": "Professional assessment of security measures, risk identification and recommendations for increasing protection of systems and data. Focused on infrastructure prevention and resilience.",
+            "button": {
+                "text": "Contact us",
+                "url": "#"
+            }
+        },
+        {
+            "name": "Applications",
+            "price": "from 50.000,-",
+            "billing_cycle": "",
+            "description": "Application security analysis, vulnerability identification and recommendations for increasing protection. Focused on attack prevention and security best practices.",
+            "button": {
+                "text": "Contact us",
                 "url": "#"
             }
         }
@@ -62,6 +90,7 @@ layout: "pricing"
 }
 {{< /pricing-table-1 >}}
 
+<!--
 <div class="mt-16"></div>
 
 {{< pricing-table-2 >}}
@@ -121,7 +150,9 @@ layout: "pricing"
     ]
 }
 {{< /pricing-table-2 >}}
+-->
 
+<!--
 {{< faq >}}
 {
     "title": "Common Questions",
@@ -150,3 +181,4 @@ layout: "pricing"
     ]
 }
 {{< /faq >}}
+-->
